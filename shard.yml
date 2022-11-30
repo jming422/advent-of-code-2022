@@ -1,0 +1,13 @@
+name: advent-of-code-2022
+version: 0.1.0
+
+authors:
+  - Jonathan Ming <jming422@gmail.com>
+
+targets:
+  advent-of-code-2022:
+    main: src/advent-of-code-2022.cr
+
+crystal: 1.6.2
+
+license: MIT
